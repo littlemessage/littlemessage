@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <h1 class="title">
       Little Message
     </h1>
